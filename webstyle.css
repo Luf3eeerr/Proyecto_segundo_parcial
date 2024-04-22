@@ -1,0 +1,128 @@
+.CUAA{
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    background-position: center;
+}
+.CUAM{
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    background-position: center;
+    margin-top: 15px;
+}
+.CUAB{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    display: inline-block;
+
+    background-position: center;
+}
+.TITULO{
+    display: inline-block;
+    margin-left: 20px;
+}
+.DIAS{
+    display: inline-block;
+    margin-left: 40px;
+}
+.TITU{
+    display: inline-block;
+    margin-left: 20px;
+
+}
+#uno{
+    background-image: url("uno.jpg");
+    margin-left: 1cm;
+}
+#dos{
+    height: 150px;
+    width: 300px;
+    background-image: url("dos.jpg");
+    margin-top: 15px;
+    display: inline-block;
+    background-position: center;
+}
+#tres{
+    background-image: url("tres.jpg");
+}
+#cuatro{
+    background-image: url("cuatro.jpg");
+}
+#cinco{
+    background-image: url("cinco.jpg");
+    margin-left: 1CM;
+}
+#seis{
+    background-image: url("seis.jpg");
+}
+#siete{
+    background-image: url("siete.jpg");
+}
+#ocho{
+    background-image: url("ocho.jpg");
+}
+#nueve{
+    background-image: url("nueve.jpg");
+}
+#diez{
+    background-image: url("diez.jpg");
+    margin-left: 1cm;
+}
+#once{
+    background-image: url("once.jpg");
+}
+#doce{
+    background-image: url("doce.jpg");
+}
+#trece{
+    background-image: url("trece.png");
+    height: 150px;
+    width: 300px;
+    display: inline-block;
+    background-position: center;
+    margin-top: 10px;
+}
+#texto{
+    margin-top: 45px;
+}
+#web{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-image: url("webb.png");
+    margin-top: 15px;
+    margin-left: 10px;
+}
+#mon{
+    margin-left: 5cm;
+    display: inline-block;
+}
+#DAY{
+    background-color: white;
+    height: auto;
+    width: auto;
+}
+#gra{
+    background-color: aqua;
+    height: 280px;
+    width: auto;
+}
+#verde{
+    color: green;
+    margin-left: 180px;
+}
+#moradito{
+    background-image: url("moradito.png");
+    height: 120px;
+    width: 150px;
+    margin-left: 600px;
+}
+#verdecito{
+    background-image: url("verdecito.png");
+    height: 130px;
+    width: 150px;
+    margin-left: 600px;
+}
+
